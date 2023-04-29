@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NishchalvPandit
+- 👋 Hi, I’m NISHCHAL PANDIT.
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning data analysis.
 
